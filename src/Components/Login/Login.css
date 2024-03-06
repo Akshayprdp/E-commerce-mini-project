@@ -1,0 +1,8 @@
+.Login1{background-Color:#F2F2F4;position: absolute;width: 100%;margin-left: 0px;margin-top: 0px;height: 100%;}
+.Login2{height: 440px;width: 470px;margin-left: 515px;margin-top: 160px;position: relative;}
+.bor{height: 440px;width: 470px;background-color: white;position: relative;margin-top: 132px;margin-left: -0px;border-radius: 10px;box-shadow: 
+     -14px -7px 20px -20px rgba(0,0,0,0.45),
+     9px -7px 20px -20px rgba(0,0,0,0.45),
+     1px 14px 20px -20px rgba(0,0,0,0.45),
+     9px 0px 20px -20px rgba(0,0,0,0.45);}
+
